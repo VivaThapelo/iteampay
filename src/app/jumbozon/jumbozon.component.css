@@ -1,0 +1,40 @@
+.cover-container {
+  height: 100vh !important;
+}
+
+.bg-image {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-position: top center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  -webkit-background-size: cover;
+  z-index: 1;
+}
+
+.bgvideo {
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  min-width: 100%;
+  min-height: 100%;
+  width: auto;
+  height: auto;
+  z-index: 1;
+}
+
+.cover-heading {
+  font-size: 48px;
+  color: white;
+}
+
+.lead {
+  color: white;
+}
+
+.cover-container {
+  background-color: rgba(0, 0, 0, 0.3);
+}

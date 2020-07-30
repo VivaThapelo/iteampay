@@ -1,0 +1,16 @@
+.navbar-toggler-icon {
+  color: blue;
+}
+
+.cover-heading {
+  font-size: xx-large;
+  color: white;
+}
+
+.nav-bar {
+  background-color: rgba(0, 0, 0, 0.3);
+}
+
+.logo {
+  background-image: url("../../assets/img/logo.jpg");
+}
