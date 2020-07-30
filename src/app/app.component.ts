@@ -6,5 +6,6 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'untitled';
+  title = 'ITeamPay';
+  logoPath = 'src/app/images/logo.jpg';
 }
